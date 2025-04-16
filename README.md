@@ -32,7 +32,7 @@ A machine learning project focused on forecasting customer subscription to term 
    - Transformed temporal and interaction-based variables
 
 3. **Modeling**
-   - Logistic Regression, Random Forest, XGBoost
+   - Logistic Regression, Random Forest
    - Hyperparameter tuning for performance optimization
 
 4. **Evaluation**
